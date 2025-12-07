@@ -22,12 +22,6 @@ IntelliJ IDEA
 
 Desenvolvido por Tácito Pontes
 
-## 💻 Exemplo de Saída
+LinkedIn: https://www.linkedin.com/in/tacito-pontes-amaral/
 
-Ao rodar o código, o sistema gerencia a lista de pessoas e imprime os resultados:
-
-```bash
-O tamanho da Lista é: 3
-A primeira pessoa da lista é: Pessoa{nome='Jaline Oliveira', idade=15}
-[Pessoa{nome='Jaline Oliveira'...}, Pessoa{nome='Tácito Amaral'...}, ...]
-
+GitHub: https://github.com/tacitopontes-dev
